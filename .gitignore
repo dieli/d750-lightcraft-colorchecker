@@ -1,0 +1,5 @@
+# Full bracket and intermediate files; the usable frames are published as a GitHub release
+raw_bracket/
+images/bracket/
+profiles/*.dng
+release/

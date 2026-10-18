@@ -3,8 +3,8 @@
   "version": 1,
   "presets": [
     {
-      "id": "user.44.d750-colorchecker-outdoor-2026-10-17",
-      "name": "D750 ColorChecker Outdoor 2026-10-17",
+      "id": "user.47.d750-colorchecker-outdoor-2026-10-18",
+      "name": "D750 ColorChecker Outdoor 2026-10-18",
       "group": "User Presets",
       "settings": {
         "bw_mix": {
@@ -18,58 +18,58 @@
           "yellow": 0
         },
         "calibration": {
-          "blue_hue": 8,
-          "blue_sat": 19,
+          "blue_hue": 4,
+          "blue_sat": 11,
           "green_hue": 20,
-          "green_sat": 19,
-          "red_hue": -30,
-          "red_sat": -10,
-          "shadows_tint": 2
+          "green_sat": 3,
+          "red_hue": -14,
+          "red_sat": -18,
+          "shadows_tint": 10
         },
         "color": {
           "saturation": 32,
-          "vibrance": 8
+          "vibrance": -8
         },
         "mixer": {
           "aqua": {
-            "hue": 4,
-            "lum": -1,
-            "sat": 15
+            "hue": -8,
+            "lum": 3,
+            "sat": 3
           },
           "blue": {
-            "hue": -12,
-            "lum": -35,
-            "sat": 8
+            "hue": -20,
+            "lum": -55,
+            "sat": 0
           },
           "green": {
-            "hue": 12,
-            "lum": 16,
-            "sat": -4
+            "hue": 8,
+            "lum": 12,
+            "sat": 8
           },
           "magenta": {
             "hue": 8,
-            "lum": -3,
+            "lum": -11,
             "sat": 13
           },
           "orange": {
-            "hue": 20,
-            "lum": 40,
+            "hue": 4,
+            "lum": 24,
             "sat": 2
           },
           "purple": {
             "hue": 8,
-            "lum": -14,
-            "sat": 4
+            "lum": -22,
+            "sat": -8
           },
           "red": {
             "hue": -6,
-            "lum": 37,
+            "lum": 25,
             "sat": 1
           },
           "yellow": {
-            "hue": 3,
-            "lum": 29,
-            "sat": 2
+            "hue": -5,
+            "lum": 41,
+            "sat": 10
           }
         },
         "point_colors": [],
@@ -82,8 +82,8 @@
       "builtin": false
     },
     {
-      "id": "user.45.d750-colorchecker-indoor-2026-10-17",
-      "name": "D750 ColorChecker Indoor 2026-10-17",
+      "id": "user.46.d750-colorchecker-indoor-2026-10-18",
+      "name": "D750 ColorChecker Indoor 2026-10-18",
       "group": "User Presets",
       "settings": {
         "bw_mix": {
@@ -97,57 +97,57 @@
           "yellow": 0
         },
         "calibration": {
-          "blue_hue": -8,
-          "blue_sat": 8,
-          "green_hue": 24,
-          "green_sat": 19,
-          "red_hue": -18,
-          "red_sat": -2,
-          "shadows_tint": 2
+          "blue_hue": -20,
+          "blue_sat": 0,
+          "green_hue": 20,
+          "green_sat": -5,
+          "red_hue": -6,
+          "red_sat": -10,
+          "shadows_tint": 6
         },
         "color": {
-          "saturation": 0,
-          "vibrance": 4
+          "saturation": 32,
+          "vibrance": -4
         },
         "mixer": {
           "aqua": {
-            "hue": 4,
-            "lum": -11,
-            "sat": 15
+            "hue": -12,
+            "lum": 13,
+            "sat": 11
           },
           "blue": {
-            "hue": -11,
-            "lum": -10,
-            "sat": 5
+            "hue": -19,
+            "lum": -22,
+            "sat": -3
           },
           "green": {
-            "hue": 7,
-            "lum": 4,
-            "sat": -14
+            "hue": 3,
+            "lum": 8,
+            "sat": -6
           },
           "magenta": {
-            "hue": 12,
-            "lum": -3,
-            "sat": 6
+            "hue": 0,
+            "lum": -15,
+            "sat": -2
           },
           "orange": {
-            "hue": 8,
+            "hue": 4,
             "lum": 24,
             "sat": 0
           },
           "purple": {
             "hue": 0,
-            "lum": -14,
-            "sat": 0
+            "lum": -26,
+            "sat": -8
           },
           "red": {
             "hue": 1,
-            "lum": 13,
-            "sat": 13
+            "lum": 9,
+            "sat": -3
           },
           "yellow": {
-            "hue": -9,
-            "lum": 13,
+            "hue": -5,
+            "lum": 45,
             "sat": 2
           }
         },
